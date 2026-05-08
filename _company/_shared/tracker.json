@@ -237,6 +237,91 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-05-08T18-52/_report.md\n- Business: 최종 $Ad-ROI$ 및 LTV/CAC 검증 프레임워크가 영상 메시지에 완벽히 반영되었는지 최종적으로 점검하고, Editor에게 전달될 핵심 수\n- Designer: 확정된 Deep Navy/Neon Cyan 시스템과 $Ad-ROI$ 지표에 기반한 최종 비주얼 가이드라인(Asset Guide)을 완성하고, 모\n- 레오: Business와 Designer가 확정한 최종 수익화 논리와 비주얼 가이드라인을 기반으로, Editor에게 전달할 영상 제작 착수를 위한 모든\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: 최종 $Ad-ROI$ 및 LTV/CAC 검증 프레임워크가 영상 메시지에 완벽히 반영되었는지 최종적으로 점검하고, Editor에게 전달될 핵심 수익화 논리 구조를 확정하여 제공하라.\n> 🔧 **도구 실행**: _(없음 — LL",
       "completedAt": "2026-05-08T19:04:54.212Z"
+    },
+    {
+      "id": "20260508203226-sbiv",
+      "title": "**Color Consistency:** 모든 요소가 Deep Navy/Neon Cyan 팔레트 내에서 사용되었는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-08T20:32:26.406Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T20-15",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T20-15/_report.md\n- Researcher: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인\n- Business: 리서처가 제시한 방향성을 바탕으로, 50대 이상 타깃에게 매력적일 수 있는 게임 컨셉 3가지(단순성, 재미, 기발함 기준)를 도출하고, 각 컨셉\n- Designer: Business가 선정한 최적의 게임 컨셉에 대해, Deep Navy/Neon Cyan 시스템을 활용하여 시각적으로 단순하면서도 세련되고 중장년\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인 아이디어 방향을 제시해줘.\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-05-08T20:34:27.449Z"
+    },
+    {
+      "id": "20260508203226-s0b9",
+      "title": "**Typography Hierarchy:** H1, H2, Body Text의 크기 및 굵기 계층이 일관적인가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-08T20:32:26.426Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T20-15",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T20-15/_report.md\n- Researcher: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인\n- Business: 리서처가 제시한 방향성을 바탕으로, 50대 이상 타깃에게 매력적일 수 있는 게임 컨셉 3가지(단순성, 재미, 기발함 기준)를 도출하고, 각 컨셉\n- Designer: Business가 선정한 최적의 게임 컨셉에 대해, Deep Navy/Neon Cyan 시스템을 활용하여 시각적으로 단순하면서도 세련되고 중장년\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인 아이디어 방향을 제시해줘.\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-05-08T20:34:27.462Z"
+    },
+    {
+      "id": "20260508203226-qb54",
+      "title": "**Data Overlay Placement:** $Ad-ROI$ 박스는 항상 영상의 시청 흐름을 방해하지 않고 명확하게 강조되는 위치에 배치되었는가? (좌표 가이드 준수)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-08T20:32:26.438Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T20-15",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T20-15/_report.md\n- Researcher: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인\n- Business: 리서처가 제시한 방향성을 바탕으로, 50대 이상 타깃에게 매력적일 수 있는 게임 컨셉 3가지(단순성, 재미, 기발함 기준)를 도출하고, 각 컨셉\n- Designer: Business가 선정한 최적의 게임 컨셉에 대해, Deep Navy/Neon Cyan 시스템을 활용하여 시각적으로 단순하면서도 세련되고 중장년\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인 아이디어 방향을 제시해줘.\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-05-08T20:34:27.473Z"
+    },
+    {
+      "id": "20260508203226-i8dz",
+      "title": "**Sound Sync:** BGM의 BPM과 핵심 데이터 변화(Peak/Trough)가 동기화되어 감정적 몰입을 유도하는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-08T20:32:26.449Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T20-15",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T20-15/_report.md\n- Researcher: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인\n- Business: 리서처가 제시한 방향성을 바탕으로, 50대 이상 타깃에게 매력적일 수 있는 게임 컨셉 3가지(단순성, 재미, 기발함 기준)를 도출하고, 각 컨셉\n- Designer: Business가 선정한 최적의 게임 컨셉에 대해, Deep Navy/Neon Cyan 시스템을 활용하여 시각적으로 단순하면서도 세련되고 중장년\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인 아이디어 방향을 제시해줘.\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-05-08T20:34:27.487Z"
+    },
+    {
+      "id": "20260508203226-ctdz",
+      "title": "**Asset Reusability:** 정의된 템플릿(ROI 박스, Funnel Flow)이 다음 영상에서 즉시 복제 가능하도록 파일로 정리되었는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-08T20:32:26.459Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T20-15",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T20-15/_report.md\n- Researcher: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인\n- Business: 리서처가 제시한 방향성을 바탕으로, 50대 이상 타깃에게 매력적일 수 있는 게임 컨셉 3가지(단순성, 재미, 기발함 기준)를 도출하고, 각 컨셉\n- Designer: Business가 선정한 최적의 게임 컨셉에 대해, Deep Navy/Neon Cyan 시스템을 활용하여 시각적으로 단순하면서도 세련되고 중장년\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인 아이디어 방향을 제시해줘.\n> 🔧 **도구 실행**: _(없음 ",
+      "completedAt": "2026-05-08T20:34:27.502Z"
     }
   ]
 }
