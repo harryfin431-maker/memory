@@ -169,6 +169,74 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-05-07T09-35/_report.md\n- Developer: Writer가 제시한 최종 스크립트와 Designer가 확정한 시각 사양을 기반으로 Module_Upgrade 영상 콘텐츠의 최종 편집 및 후크\n- Editor: Developer가 제공한 최종 코드와 Writer의 스크립트를 기반으로 영상 콘텐츠를 편집하고, 확정된 시각 가이드라인(Deep Navy/Ne\n- Designer: 개발 및 편집이 완료된 모든 결과물에 대해 Deep Navy/Neon Cyan 브랜드 시스템 준수 여부를 최종 QA하고, 시각적 일관성을 100\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 Developer _(Lead Engineer)_\n> 📋 **지시**: Writer가 제시한 최종 스크립트와 Designer가 확정한 시각 사양을 기반으로 Module_Upgrade 영상 콘텐츠의 최종 편집 및 후크 연출 작업을 즉시 진행하라. 모든 결과물은 Deep Navy/Neon Cyan 브랜드",
       "completedAt": "2026-05-07T09:46:56.545Z"
+    },
+    {
+      "id": "20260508190224-du7q",
+      "title": "영상 메시지는 '시스템 적용 → ROI 증명 → 지속 가능한 수익성 확인' 흐름을 따르는가?",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-08T19:02:24.577Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T18-52",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T18-52/_report.md\n- Business: 최종 $Ad-ROI$ 및 LTV/CAC 검증 프레임워크가 영상 메시지에 완벽히 반영되었는지 최종적으로 점검하고, Editor에게 전달될 핵심 수\n- Designer: 확정된 Deep Navy/Neon Cyan 시스템과 $Ad-ROI$ 지표에 기반한 최종 비주얼 가이드라인(Asset Guide)을 완성하고, 모\n- 레오: Business와 Designer가 확정한 최종 수익화 논리와 비주얼 가이드라인을 기반으로, Editor에게 전달할 영상 제작 착수를 위한 모든\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: 최종 $Ad-ROI$ 및 LTV/CAC 검증 프레임워크가 영상 메시지에 완벽히 반영되었는지 최종적으로 점검하고, Editor에게 전달될 핵심 수익화 논리 구조를 확정하여 제공하라.\n> 🔧 **도구 실행**: _(없음 — LL",
+      "completedAt": "2026-05-08T19:04:54.174Z"
+    },
+    {
+      "id": "20260508190224-8gh5",
+      "title": "인트로(Hook) 15초 내에 $Ad-ROI$와 LTV/CAC의 중요성을 명확히 제시했는가?",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-08T19:02:24.600Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T18-52",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T18-52/_report.md\n- Business: 최종 $Ad-ROI$ 및 LTV/CAC 검증 프레임워크가 영상 메시지에 완벽히 반영되었는지 최종적으로 점검하고, Editor에게 전달될 핵심 수\n- Designer: 확정된 Deep Navy/Neon Cyan 시스템과 $Ad-ROI$ 지표에 기반한 최종 비주얼 가이드라인(Asset Guide)을 완성하고, 모\n- 레오: Business와 Designer가 확정한 최종 수익화 논리와 비주얼 가이드라인을 기반으로, Editor에게 전달할 영상 제작 착수를 위한 모든\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: 최종 $Ad-ROI$ 및 LTV/CAC 검증 프레임워크가 영상 메시지에 완벽히 반영되었는지 최종적으로 점검하고, Editor에게 전달될 핵심 수익화 논리 구조를 확정하여 제공하라.\n> 🔧 **도구 실행**: _(없음 — LL",
+      "completedAt": "2026-05-08T19:04:54.190Z"
+    },
+    {
+      "id": "20260508190224-08o2",
+      "title": "모든 시각적 요소는 Deep Navy/Neon Cyan 시스템을 일관성 있게 적용했는가?",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-08T19:02:24.620Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T18-52",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T18-52/_report.md\n- Business: 최종 $Ad-ROI$ 및 LTV/CAC 검증 프레임워크가 영상 메시지에 완벽히 반영되었는지 최종적으로 점검하고, Editor에게 전달될 핵심 수\n- Designer: 확정된 Deep Navy/Neon Cyan 시스템과 $Ad-ROI$ 지표에 기반한 최종 비주얼 가이드라인(Asset Guide)을 완성하고, 모\n- 레오: Business와 Designer가 확정한 최종 수익화 논리와 비주얼 가이드라인을 기반으로, Editor에게 전달할 영상 제작 착수를 위한 모든\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: 최종 $Ad-ROI$ 및 LTV/CAC 검증 프레임워크가 영상 메시지에 완벽히 반영되었는지 최종적으로 점검하고, Editor에게 전달될 핵심 수익화 논리 구조를 확정하여 제공하라.\n> 🔧 **도구 실행**: _(없음 — LL",
+      "completedAt": "2026-05-08T19:04:54.201Z"
+    },
+    {
+      "id": "20260508190224-0pvo",
+      "title": "데이터($Ad-ROI$, LTV/CAC)를 다룰 때, **'성장 엔진'**으로서의 역동성과 **'신뢰 기반'**의 안정감을 동시에 부여했는가?",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-08T19:02:24.631Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T18-52",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T18-52/_report.md\n- Business: 최종 $Ad-ROI$ 및 LTV/CAC 검증 프레임워크가 영상 메시지에 완벽히 반영되었는지 최종적으로 점검하고, Editor에게 전달될 핵심 수\n- Designer: 확정된 Deep Navy/Neon Cyan 시스템과 $Ad-ROI$ 지표에 기반한 최종 비주얼 가이드라인(Asset Guide)을 완성하고, 모\n- 레오: Business와 Designer가 확정한 최종 수익화 논리와 비주얼 가이드라인을 기반으로, Editor에게 전달할 영상 제작 착수를 위한 모든\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: 최종 $Ad-ROI$ 및 LTV/CAC 검증 프레임워크가 영상 메시지에 완벽히 반영되었는지 최종적으로 점검하고, Editor에게 전달될 핵심 수익화 논리 구조를 확정하여 제공하라.\n> 🔧 **도구 실행**: _(없음 — LL",
+      "completedAt": "2026-05-08T19:04:54.212Z"
     }
   ]
 }
