@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 10. 오전 3:46:47_
+_업데이트: 2026. 5. 10. 오전 4:14:20_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
@@ -7,17 +7,17 @@ _업데이트: 2026. 5. 10. 오전 3:46:47_
 - [2026-05-09] 데이터 수신에 대비하여 가장 높은 수익 잠재력을 가진 다음 영상 주제 및 콘텐츠 흐름에 대한 초기 기획안(MVP 시리즈)을 Researcher와 Writer에게 요청할 준비를 하고, 데이터 도착 즉시 실행할 수 있도록 필요한 프레임워크를 점검하라. → 산출물 sessions/2026-05-09T16-23/youtube.md
 - [2026-05-09] 도출된 Task Breakdown에 맞춰 MVP 시리즈 초기 기획 프레임워크(시스템 중심 후크 및 LTV/CAC 시각화 요소 포함)를 Researcher와 Writer에게 전달하고 작업 착수를 명령하라. → 산출물 sessions/2026-05-09T16-38/youtube.md
 ### 🎨 Designer
-- [2026-05-09] 준비된 보고 채널 구조를 바탕으로 $T_{dev}$ 도착에 대비하여 시각 자료 패키지 구조 반영을 위한 최종 점검을 시작할 준비를 완료한다. → 산출물 sessions/2026-05-09T15-23/designer.md
 - [2026-05-09] 개발 데이터($T_{dev}$) 도착 시, 시각 자료 패키지 구조 반영을 위한 입력/출력 매핑 규칙 및 'Visual Package 반영 최종 점검 체크리스트' 항목과 연동 지점을 구체적으로 작성한다. → 산출물 sessions/2026-05-09T15-38/designer.md
 - [2026-05-09] Business 에이전트가 정의한 KPI(Latency, 할당 정확도 등) 측정 체계와 Task Breakdown 결과 간의 시각 자료 패키지 구조 연동에 필요한 입력/출력 매핑 규칙 초안을 작성하라. → 산출물 sessions/2026-05-09T18-08/designer.md
+- [2026-05-09] Business 에이전트가 정의한 KPI 측정 체계와 Task Breakdown 결과 간의 시각 자료 패키지 구조 연동에 필요한 입력/출력 매핑 규칙을 최종 확정하고, 이 규칙이 실제 보고 포맷에 반영되도록 준비하라. → 산출물 sessions/2026-05-09T18-53/designer.md
 ### 💻 Developer
-- [2026-05-09] 웹사이트 기능 개발 완료 예상 일정($T_{dev}$)을 즉시 보고하라. → 산출물 sessions/2026-05-09T09-38/developer.md
 - [2026-05-09] 웹사이트 기능 개발 완료 예상 일정($T_{dev}$)을 즉시 보고하라. → 산출물 sessions/2026-05-09T09-53/developer.md
 - [2026-05-09] Business 및 Designer가 정의한 데이터 연동 규칙을 바탕으로, 웹사이트 기능 개발 일정($T_{dev}$)과 시각 자료 패키지 구조 반영에 대한 초기 실행 로드맵 초안을 작성하라. → 산출물 sessions/2026-05-09T18-08/developer.md
+- [2026-05-09] Business 에이전트가 확정한 실행 로드맵 우선순위에 맞춰 웹사이트 기능 개발 일정($T_{dev}$)의 세부 계획을 수립하고 보고하라. → 산출물 sessions/2026-05-09T19-08/developer.md
 ### 💰 Business
-- [2026-05-09] Ad-ROI 및 T_start 프레임워크를 바탕으로, Designer와 Developer에게 전달될 Task Breakdown 결과가 시각 자료 패키지 구조 및 개발 일정에 어떻게 연동되어야 하는지에 대한 최종 매핑 규칙을 문서화하라. → 산출물 sessions/2026-05-09T18-08/business.md
-- [2026-05-09] Designer와 Developer에게 전달될 Task Breakdown 결과의 측정 기준($	ext{Latency}, 	ext{Accuracy}$)이 시각 자료 패키지 구조 및 개발 일정에 어떻게 연동되어야 하는지에 대한 매핑 규칙을 최종 확정하고, 이 규칙이 시스템 내에서 완벽히 작동하는지 점검하라. → 산출물 sessions/2026-05-09T18-23/business.md
 - [2026-05-09] Ad-ROI 및 T_start 프레임워크를 기반으로, 현재 진행 중인 개발 로드맵(Developer의 작업)에 가장 높은 수익 잠재력을 제공하는 다음 실행 단계(Next Action)를 도출하고 이를 구체적인 Task Breakdown 형태로 제안하라. → 산출물 sessions/2026-05-09T18-38/business.md
+- [2026-05-09] Task Breakdown(T1~T4)을 기반으로 KPI(Latency, Accuracy 등)와 시각 자료 패키지 구조의 연동 규칙을 최종 검증하고 확정하여 시스템 내에서 완벽히 작동하도록 점검하라. → 산출물 sessions/2026-05-09T18-53/business.md
+- [2026-05-09] Task Breakdown 결과와 수익화 흐름을 기반으로 Developer에게 전달될 실행 로드맵 우선순위를 최종 확정하고 구체적인 Task Breakdown 형태로 정리하여 보고하라. → 산출물 sessions/2026-05-09T19-08/business.md
 ### 📱 영숙
 - [2026-05-09] 외부 데이터($T_{dev}$) 도착 시, Designer 및 Developer에게 할당될 보고 채널이 0초 지연 없이 즉시 실행 가능하도록 최종 연동 상태를 확인하고 모든 보고 채널을 활성화합니다. → 산출물 sessions/2026-05-09T17-53/secretary.md
 - [2026-05-09] 위의 모든 작업(Business KPI 정의 및 매핑 규칙)이 완료될 때까지, Designer와 Developer에게 할당될 보고 채널($T_{dev}$ 연동 준비)의 'Ready State' 유지 상태를 지속적으로 모니터링하고 진행 상황을 정리하라. → 산출물 sessions/2026-05-09T18-08/secretary.md
