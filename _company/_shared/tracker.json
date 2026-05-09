@@ -322,6 +322,91 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-05-08T20-15/_report.md\n- Researcher: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인\n- Business: 리서처가 제시한 방향성을 바탕으로, 50대 이상 타깃에게 매력적일 수 있는 게임 컨셉 3가지(단순성, 재미, 기발함 기준)를 도출하고, 각 컨셉\n- Designer: Business가 선정한 최적의 게임 컨셉에 대해, Deep Navy/Neon Cyan 시스템을 활용하여 시각적으로 단순하면서도 세련되고 중장년\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 50대 이상 사용자들이 선호하는 게임 장르, 심리적 니즈(추억, 두뇌 활동, 소셜 연결), 그리고 현재 모바일 게임 트렌드를 리서치하여 잠재적인 아이디어 방향을 제시해줘.\n> 🔧 **도구 실행**: _(없음 ",
       "completedAt": "2026-05-08T20:34:27.502Z"
+    },
+    {
+      "id": "20260509112755-k9u4",
+      "title": "**Ad-ROI 적용 확인:** 각 단계별 Ad-ROI 기반의 자원 배분 및 우선순위가 정확히 반영되었는지 최종 검토 완료.",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-09T11:27:55.171Z",
+      "status": "done",
+      "sessionDir": "2026-05-09T11-23",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-09T11-23/_report.md\n- 영숙: Developer로부터 $T_{dev}$ 수신 시점에 맞춰, Business가 설계한 5단계 실행 계획 프레임워크(Ad-ROI/T_start 적\n- Designer: Business의 실행 계획에 필요한 모든 시각적 요구사항(Deep Blue/Neon 표준 및 모듈 판매 패키지 구조)이 $T_{dev}$ 수신\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📱 영숙 _(비서 · Personal Assistant)_\n> 📋 **지시**: Developer로부터 $T_{dev}$ 수신 시점에 맞춰, Business가 설계한 5단계 실행 계획 프레임워크(Ad-ROI/T_start 적용)의 최종 실행 안정성 점검 목록을 작성하고, 필요한 모든 준비물(Gap 분석 ",
+      "completedAt": "2026-05-09T11:31:43.193Z"
+    },
+    {
+      "id": "20260509112755-u228",
+      "title": "**$T_{start}$ 연동 확인:** 예측된 $T_{start}$ 시점과 실제 작업 착수 시점 간의 로드맵 일관성 점검 완료.",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-09T11:27:55.192Z",
+      "status": "done",
+      "sessionDir": "2026-05-09T11-23",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-09T11-23/_report.md\n- 영숙: Developer로부터 $T_{dev}$ 수신 시점에 맞춰, Business가 설계한 5단계 실행 계획 프레임워크(Ad-ROI/T_start 적\n- Designer: Business의 실행 계획에 필요한 모든 시각적 요구사항(Deep Blue/Neon 표준 및 모듈 판매 패키지 구조)이 $T_{dev}$ 수신\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📱 영숙 _(비서 · Personal Assistant)_\n> 📋 **지시**: Developer로부터 $T_{dev}$ 수신 시점에 맞춰, Business가 설계한 5단계 실행 계획 프레임워크(Ad-ROI/T_start 적용)의 최종 실행 안정성 점검 목록을 작성하고, 필요한 모든 준비물(Gap 분석 ",
+      "completedAt": "2026-05-09T11:31:43.221Z"
+    },
+    {
+      "id": "20260509112755-usst",
+      "title": "**Gap 분석 결과 검증:** Step 1에서 도출된 Gap 분석이 실제 필요한 리소스와 정확히 일치하는지 확인.",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-09T11:27:55.215Z",
+      "status": "done",
+      "sessionDir": "2026-05-09T11-23",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-09T11-23/_report.md\n- 영숙: Developer로부터 $T_{dev}$ 수신 시점에 맞춰, Business가 설계한 5단계 실행 계획 프레임워크(Ad-ROI/T_start 적\n- Designer: Business의 실행 계획에 필요한 모든 시각적 요구사항(Deep Blue/Neon 표준 및 모듈 판매 패키지 구조)이 $T_{dev}$ 수신\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📱 영숙 _(비서 · Personal Assistant)_\n> 📋 **지시**: Developer로부터 $T_{dev}$ 수신 시점에 맞춰, Business가 설계한 5단계 실행 계획 프레임워크(Ad-ROI/T_start 적용)의 최종 실행 안정성 점검 목록을 작성하고, 필요한 모든 준비물(Gap 분석 ",
+      "completedAt": "2026-05-09T11:31:43.241Z"
+    },
+    {
+      "id": "20260509112755-pepb",
+      "title": "**리스크 반영:** 개발 지연 리스크 대응을 위한 P1, P2, P3 매트릭스가 각 단계에 적절히 할당되었는지 최종 점검 완료.",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-09T11:27:55.239Z",
+      "status": "done",
+      "sessionDir": "2026-05-09T11-23",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-09T11-23/_report.md\n- 영숙: Developer로부터 $T_{dev}$ 수신 시점에 맞춰, Business가 설계한 5단계 실행 계획 프레임워크(Ad-ROI/T_start 적\n- Designer: Business의 실행 계획에 필요한 모든 시각적 요구사항(Deep Blue/Neon 표준 및 모듈 판매 패키지 구조)이 $T_{dev}$ 수신\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📱 영숙 _(비서 · Personal Assistant)_\n> 📋 **지시**: Developer로부터 $T_{dev}$ 수신 시점에 맞춰, Business가 설계한 5단계 실행 계획 프레임워크(Ad-ROI/T_start 적용)의 최종 실행 안정성 점검 목록을 작성하고, 필요한 모든 준비물(Gap 분석 ",
+      "completedAt": "2026-05-09T11:31:43.259Z"
+    },
+    {
+      "id": "20260509112755-25t8",
+      "title": "**Gap 분석 요청 템플릿:** $T_{dev}$ 수신 즉시 Business에게 요청할 'Gap 분석 요청 템플릿'이 최적화되어 준비됨. (준비 완료)",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-09T11:27:55.257Z",
+      "status": "done",
+      "sessionDir": "2026-05-09T11-23",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-09T11-23/_report.md\n- 영숙: Developer로부터 $T_{dev}$ 수신 시점에 맞춰, Business가 설계한 5단계 실행 계획 프레임워크(Ad-ROI/T_start 적\n- Designer: Business의 실행 계획에 필요한 모든 시각적 요구사항(Deep Blue/Neon 표준 및 모듈 판매 패키지 구조)이 $T_{dev}$ 수신\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📱 영숙 _(비서 · Personal Assistant)_\n> 📋 **지시**: Developer로부터 $T_{dev}$ 수신 시점에 맞춰, Business가 설계한 5단계 실행 계획 프레임워크(Ad-ROI/T_start 적용)의 최종 실행 안정성 점검 목록을 작성하고, 필요한 모든 준비물(Gap 분석 ",
+      "completedAt": "2026-05-09T11:31:43.277Z"
     }
   ]
 }
