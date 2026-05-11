@@ -1,0 +1,1 @@
+# Shorts 실행 모드: Hook A 기반 제작 계획 (Execution Mode)
