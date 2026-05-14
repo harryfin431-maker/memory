@@ -98,3 +98,4 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-14] Designer와 Developer가 제공한 최종 Shot List(Production Blueprint)를 기반으로, Shorts 영상의 실제 편집 및 업로드에 필요한 모든 상세 가이드라인을 확정하고 제작을 즉시 착수하라. → 산출물 sessions/2026-05-14T09-54/youtube.md
 - [2026-05-14] 확정된 Production Blueprint(Shot List)와 Designer가 확보한 최종 시각 자료를 기반으로 Shorts 영상의 실제 편집 및 업로드 작업을 즉시 착수하라. 모든 과정은 KPI 달성을 최우선 목표로 삼아 진행해야 한다. → 산출물 sessions/2026-05-14T10-41/youtube.md
 - [2026-05-14] 확정된 Production Blueprint(Shot List)와 Designer가 확보한 최종 시각 자료를 기반으로 Shorts 영상의 실제 편집 및 업로드에 필요한 모든 상세 가이드라인을 확정하고 제작을 즉시 착수하라. → 산출물 sessions/2026-05-14T13-04/youtube.md
+- [2026-05-14] 확정된 Production Blueprint와 Designer의 시각 자료를 기반으로 Shorts 영상의 실제 편집 및 업로드 작업을 KPI 달성을 최우선 목표로 착수할 준비를 하라. → 산출물 sessions/2026-05-14T14-19/youtube.md
