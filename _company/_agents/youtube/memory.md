@@ -89,3 +89,4 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-14] Business 에이전트가 수립한 콘텐츠 실행 계획을 바탕으로, '70년 인생 기록'과 시스템 프레임워크를 결합하는 최적의 YouTube 영상 주제와 Shorts 기획 방향을 제시하고, 트렌드를 반영하라. → 산출물 sessions/2026-05-14T03-09/youtube.md
 - [2026-05-14] Business 에이전트가 제시한 KPI 및 시스템 프레임워크를 기반으로, 가장 높은 전환율을 목표로 하는 Shorts 영상의 핵심 주제(Hook)와 Long-form 콘텐츠와의 연관성을 포함하는 상세 기획안(Action Plan)을 작성하세요. → 산출물 sessions/2026-05-14T04-24/youtube.md
 - [2026-05-14] 검증된 KPI($CVR 	imes AOV$, Retention Rate)와 'Wisdom-Efficiency Loop' 프레임워크를 적용하여, 다음 Shorts 영상의 핵심 주제(Hook), 스크립트 방향, 그리고 Long-form 콘텐츠로의 연결 전략을 구체적으로 기획하라. → 산출물 sessions/2026-05-14T05-39/youtube.md
+- [2026-05-14] 최종 확정된 Shorts 기획안(Hook, 스크립트 방향)을 바탕으로 실제 영상 편집 및 업로드에 필요한 상세 가이드라인을 작성하고 즉시 제작 준비를 시작하라. → 산출물 sessions/2026-05-14T07-24/youtube.md
