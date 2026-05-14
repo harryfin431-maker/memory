@@ -101,3 +101,6 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-14] 확정된 Production Blueprint와 Designer의 시각 자료를 기반으로 Shorts 영상의 실제 편집 및 업로드 작업을 KPI 달성을 최우선 목표로 착수할 준비를 하라. → 산출물 sessions/2026-05-14T14-19/youtube.md
 - [2026-05-14] 확정된 Production Blueprint와 Designer가 확보한 시각 자료를 기반으로 Shorts 영상의 실제 편집 및 업로드 작업을 KPI 달성을 최우선 목표로 즉시 착수하라. → 산출물 sessions/2026-05-14T14-34/youtube.md
 - [2026-05-14] 확정된 Production Blueprint와 Designer 시각 자료를 기반으로 Shorts 영상의 실제 편집 및 업로드 작업을 KPI 달성을 최우선 목표로 즉시 착수하라. → 산출물 sessions/2026-05-14T16-19/youtube.md
+- [2026-05-14] process_shorts_production.py 스크립트에서 발생한 'Unknown option: -3' 오류의 원인을 진단하고, 시스템이 실제 편집 및 업로드 파이프라인을 완벽히 자동화하도록 수정하여 재실행한다. → 산출물 sessions/2026-05-14T16-34/youtube.md
+- [2026-05-14] Shorts 영상 제작 파이프라인의 자동화 스크립트(`process_shorts_production.py`) 오류를 진단하고, 파일 경로 문제를 해결하여 실제 편집 및 업로드 작업이 성공적으로 재실행되도록 즉시 수정 및 실행하라. → 산출물 sessions/2026-05-14T16-49/youtube.md
+- [2026-05-14] 재실행된 Shorts 영상 제작 파이프라인의 최종 성공 여부 및 KPI 달성 결과를 즉시 확인하고 보고하라. → 산출물 sessions/2026-05-14T17-04/youtube.md
