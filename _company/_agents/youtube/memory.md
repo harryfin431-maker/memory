@@ -85,3 +85,6 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-13] business 에이전트가 도출한 콘텐츠 우선순위 및 KPI를 기반으로, 가장 높은 전환율을 목표로 하는 주제에 대한 구체적인 스크립트 초안 제작을 위한 초기 기획 방향을 설정하세요. → 산출물 sessions/2026-05-13T21-42/youtube.md
 - [2026-05-14] Writer가 작성한 스크립트 초안에 기반하여, Shorts 및 Long-form 콘텐츠 제작 우선순위에 맞춘 구체적인 영상 기획 방향과 트렌드 반영 방안을 제시하라. → 산출물 sessions/2026-05-13T23-54/youtube.md
 - [2026-05-14] Business 에이전트가 설정한 주간 KPI(CVR $	imes$ AOV, Retention Rate 15% 향상 목표)를 기반으로, Writer의 스크립트를 가장 효과적으로 녹여낼 수 있는 Shorts 및 Long-form 영상 기획 방향과 트렌드 반영 방안을 즉시 재조정하라. → 산출물 sessions/2026-05-14T00-39/youtube.md
+- [2026-05-14] 기존 유튜브 프로젝트 로드맵을 검토하고, 설정된 KPI($CVR 	imes AOV$, Retention Rate)를 극대화할 수 있는 다음 콘텐츠 주제 및 Shorts 영상 기획 방향을 제시하라. 이 계획은 디자인 시스템 준수 여부를 최우선으로 고려해야 한다. → 산출물 sessions/2026-05-14T02-39/youtube.md
+- [2026-05-14] Business 에이전트가 수립한 콘텐츠 실행 계획을 바탕으로, '70년 인생 기록'과 시스템 프레임워크를 결합하는 최적의 YouTube 영상 주제와 Shorts 기획 방향을 제시하고, 트렌드를 반영하라. → 산출물 sessions/2026-05-14T03-09/youtube.md
+- [2026-05-14] Business 에이전트가 제시한 KPI 및 시스템 프레임워크를 기반으로, 가장 높은 전환율을 목표로 하는 Shorts 영상의 핵심 주제(Hook)와 Long-form 콘텐츠와의 연관성을 포함하는 상세 기획안(Action Plan)을 작성하세요. → 산출물 sessions/2026-05-14T04-24/youtube.md
