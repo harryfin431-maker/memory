@@ -136,3 +136,5 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-17] Shorts 영상 제작에 필요한 최종 시각 가이드라인(Deep Blue/Neon Cyan)과 KPI 목표를 기반으로, 편집팀이 착수할 수 있는 가장 명확하고 실행 가능한 후크와 스토리보드 요소를 최종 정리하라. → 산출물 sessions/2026-05-17T05-28/youtube.md
 - [2026-05-17] 레오가 설계한 스토리보드와 시각적 지침을 기반으로 실제 컷 편집 및 조합 작업을 착수하여 Shorts 영상 제작을 시작하라. → 산출물 sessions/2026-05-17T05-43/youtube.md
 - [2026-05-17] 레오가 설계한 Shorts 영상 스토리보드와 시각적 지침(Deep Blue/Neon Cyan)을 기반으로, 실제 컷 편집 및 조합 작업을 즉시 착수할 수 있도록 최종 Production Brief를 확정하고 편집팀에게 배포하라. → 산출물 sessions/2026-05-17T05-58/youtube.md
+- [2026-05-17] 레오가 설계한 Shorts 영상 스토리보드와 시각적 지침(Deep Blue/Neon Cyan)을 기반으로, 실제 컷 편집 및 조합 작업을 즉시 착수할 수 있도록 최종 Production Brief를 확정하고 편집팀에게 배포하도록 준비하라. → 산출물 sessions/2026-05-17T06-13/youtube.md
+- [2026-05-17] 최종 Production Brief와 시각 가이드라인을 기반으로 편집팀에 배포할 파일 형식(Final Delivery Format)을 명확히 정의하고 전달하라. → 산출물 sessions/2026-05-17T06-28/youtube.md

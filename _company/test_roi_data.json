@@ -1,0 +1,16 @@
+{
+  "raw_data": [
+    {"ad_campaign_id": "C1001", "spend": 50000, "conversions": 5, "revenue": 150000},
+    {"ad_campaign_id": "C1002", "spend": 75000, "conversions": 8, "revenue": 220000}
+  ],
+  "kpi_mapping": {
+    "AVD": 45.0,
+    "CTR": 0.03,
+    "CR": 0.15
+  },
+  "business_weights": {
+    "AVD_weight": 0.6,
+    "CTR_weight": 0.2,
+    "CR_weight": 0.2
+  }
+}
