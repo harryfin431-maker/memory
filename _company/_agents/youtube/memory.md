@@ -141,3 +141,5 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-17] 최종 Production Brief(영상 길이, 내레이션 스타일, 시각 가이드라인 포함)를 Designer와 Writer의 에셋과 결합하여 편집팀에 배포할 최종 통합 지침을 작성하라. → 산출물 sessions/2026-05-17T07-58/youtube.md
 - [2026-05-17] 최종 통합 지침을 바탕으로 영상 제작의 최종 배포 형식(Final Delivery Format)과 시각적 일관성 규칙(Deep Blue/Neon Cyan, The Flow Principle)을 편집팀에게 공식적으로 전달할 준비를 하세요. → 산출물 sessions/2026-05-17T08-13/youtube.md
 - [2026-05-17] 작성된 스크립트와 디자인 초안을 바탕으로 Shorts 영상 제작에 필요한 최종 Shot List 및 편집 지침(Final Delivery Format 준수)을 정리하여 제공하라. → 산출물 sessions/2026-05-17T09-19/youtube.md
+- [2026-05-17] Writer가 제공한 스크립트와 Designer가 확정한 시각 가이드라인(Deep Blue/Neon Cyan, The Flow Principle)에 맞춰 Shorts 영상의 최종 편집 착수를 위한 모든 파일 형식 및 Shot List를 정리하여 제공하라. → 산출물 sessions/2026-05-17T09-43/youtube.md
+- [2026-05-17] 제작 준비가 완료된 Shorts 콘텐츠의 제목(Title), 설명(Description), 그리고 핵심 해시태그 세트를 기획하여 제시하라. → 산출물 sessions/2026-05-17T09-49/youtube.md
