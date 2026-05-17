@@ -1,7 +1,7 @@
 """
 # automation_pipeline/main.py - 수익화 지표 자동 계산 파이프라인 메인 진입점
 
-import os
+import os, time
 import json
 from data_loader import load_subscriptions, load_transactions, load_bundle_options
 from data_transformer import calculate_ltv, analyze_conversion, merge_and_validate
