@@ -1,15 +1,15 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 17. 오후 6:01:23_
+_업데이트: 2026. 5. 17. 오후 6:33:39_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
-- [2026-05-17] 최종 Production Brief와 시각 가이드라인을 기반으로 편집팀에 배포할 파일 형식(Final Delivery Format)을 명확히 정의하고 전달하라. → 산출물 sessions/2026-05-17T06-28/youtube.md
 - [2026-05-17] 최종 Production Brief(영상 길이, 내레이션 스타일, 시각 가이드라인 포함)를 Designer와 Writer의 에셋과 결합하여 편집팀에 배포할 최종 통합 지침을 작성하라. → 산출물 sessions/2026-05-17T07-58/youtube.md
 - [2026-05-17] 최종 통합 지침을 바탕으로 영상 제작의 최종 배포 형식(Final Delivery Format)과 시각적 일관성 규칙(Deep Blue/Neon Cyan, The Flow Principle)을 편집팀에게 공식적으로 전달할 준비를 하세요. → 산출물 sessions/2026-05-17T08-13/youtube.md
+- [2026-05-17] 작성된 스크립트와 디자인 초안을 바탕으로 Shorts 영상 제작에 필요한 최종 Shot List 및 편집 지침(Final Delivery Format 준수)을 정리하여 제공하라. → 산출물 sessions/2026-05-17T09-19/youtube.md
 ### 🎨 Designer
-- [2026-05-17] Writer가 확정한 Final Delivery Format을 기반으로, 가장 높은 CTR을 예상하는 썸네일 컨셉(Concept 1: The Flow)에 대한 고해상도 디자인 에셋 생성을 즉시 착수할 수 있도록 최종 비주얼 가이드라인을 준비하라. → 산출물 sessions/2026-05-17T07-28/designer.md
-- [2026-05-17] 확정된 시각 시스템(Deep Blue/Neon Cyan, The Flow Principle)을 기반으로, 유튜브 영상 제작에 필요한 모든 핵심 디자인 에셋 및 썸네일 가이드라인을 최종 확정하고 제공하라. → 산출물 sessions/2026-05-17T07-58/designer.md
 - [2026-05-17] 확정된 시각 시스템(Deep Blue/Neon Cyan, The Flow Principle)에 따라 유튜브 영상 제작에 필요한 모든 핵심 디자인 에셋 및 썸네일 가이드라인 생성을 즉시 착수하라. → 산출물 sessions/2026-05-17T08-28/designer.md
+- [2026-05-17] Writer가 제공할 스크립트 초안과 영상의 핵심 메시지를 기반으로, Shorts에 최적화된 시각적 흐름(The Flow)을 구현하는 최종 썸네일 컨셉 및 핵심 디자인 에셋 가이드라인을 확정하고 생성하라. → 산출물 sessions/2026-05-17T09-13/designer.md
+- [2026-05-17] Writer가 제공할 스크립트와 시각 흐름 원칙(The Flow)에 맞춰, Shorts 영상에서 가장 높은 CTR을 유도할 수 있는 썸네일 컨셉(Concept 1: The Flow 기반)의 고해상도 디자인 에셋 초안을 즉시 생성하라. → 산출물 sessions/2026-05-17T09-19/designer.md
 ### 💻 코다리
 - [2026-05-17] 데이터 로더 오류(`exit 9009`) 발생 원인을 진단하고, 환경 문제 해결 후 KPI 계산 함수(`process_roi_data`)의 최종 정확성을 검증하여 데이터 파이프라인의 안정성을 확보한다. → 산출물 sessions/2026-05-17T06-58/developer.md
 - [2026-05-17] Writer와 Designer의 작업에 필요한 데이터 흐름(Pipeline Integrity)이 안정적으로 유지되도록 시스템 모니터링 상태를 확인하고, 콘텐츠 제작 과정에서 발생할 수 있는 기술적 병목 현상에 대비하여 지원 시스템을 유지하라. → 산출물 sessions/2026-05-17T07-13/developer.md
@@ -27,9 +27,9 @@ _업데이트: 2026. 5. 17. 오후 6:01:23_
 - [2026-05-08] Designer가 제공한 비주얼 시스템 마스터 가이드와 내러티브 흐름을 기반으로, 최종 스크립트 초안과 비주얼 리소스 패키지를 즉시 준비하여 영상 제작을 시작할 수 있도록 완료하라. → 산출물 sessions/2026-05-08T22-53/editor.md
 - [2026-05-08] Business와 Designer가 확정한 최종 에셋 패키지 전체(Ad-ROI 프레임워크, Deep Navy/Neon Cyan 비주얼 시스템, 4단계 내러티브 흐름)를 기반으로, 즉시 영상 제작 착수를 위한 모든 필수 지침과 편집 디렉션 패키지를 정리하여 전달하라. → 산출물 sessions/2026-05-08T23-38/editor.md
 ### ✍️ Writer
-- [2026-05-17] 최종 Production Brief와 Designer의 비주얼 가이드라인을 통합하여 편집팀에 배포할 'Final Delivery Format'과 영상 구성 흐름(Story Flow)을 명확히 정의하고 즉시 전달할 내용 초안 작성 → 산출물 sessions/2026-05-17T07-43/writer.md
-- [2026-05-17] 최종 Production Brief와 시각적 명세서를 바탕으로, 데이터 흐름(Flow)과 KPI 강조에 최적화된 영상 스크립트 초안 및 내레이션 방향을 작성하라. → 산출물 sessions/2026-05-17T07-58/writer.md
 - [2026-05-17] 최종 통합 지침을 기반으로 영상 제작의 세부 컷별 지침(Shot List) 작성을 시작하여 편집팀에 배포할 준비를 하라. → 산출물 sessions/2026-05-17T08-28/writer.md
+- [2026-05-17] Shorts 영상 기획 및 제작을 위해 '경험의 깊이'와 'AI 효율성'을 압축한 핵심 후크(Hook) 문구와 숏폼에 최적화된 스크립트 초안을 작성하고, 확정된 시각 가이드라인(Deep Blue/Neon Cyan, The Flow Principle)을 반영하여 컷별 세부 지침(Shot List)을 작성하라. → 산출물 sessions/2026-05-17T09-13/writer.md
+- [2026-05-17] 최종 통합 가이드라인(Deep Blue/Neon Cyan, The Flow Principle)을 기반으로, '70년 인생 기록' 중 가장 강력한 후크를 포함하는 첫 번째 Shorts 영상의 스크립트 초안 및 핵심 카피라이팅을 작성하라. → 산출물 sessions/2026-05-17T09-19/writer.md
 ### 🔍 Researcher
 - [2026-05-14] 경쟁사 데이터 분석 프레임워크를 적용하여, '경험의 깊이' 지표가 시장에서 가지는 가치와 경쟁 우위를 객관적으로 측정하고, 프리미엄 모델에 필요한 핵심 지표를 최종 검증하라. → 산출물 sessions/2026-05-14T13-19/researcher.md
 - [2026-05-14] ‘실행력 전환 점수(Execution Score)’를 정량화하기 위한 실제 비즈니스 성과(Outcome Metric)의 구체적인 예시와 측정 방법을 정의하고, 이를 경험적 통찰과 연결하는 프레임워크 초안을 작성하라. → 산출물 sessions/2026-05-14T13-34/researcher.md
