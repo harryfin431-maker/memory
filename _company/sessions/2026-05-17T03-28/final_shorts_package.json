@@ -1,0 +1,56 @@
+{
+  "project_name": "70s AI Lab - Shorts Video Package",
+  "visual_system": {
+    "palette": {
+      "primary_color": "#0A1931",
+      "accent_color": "#00FFFF",
+      "text_color": "#FFFFFF",
+      "background_gradient": "linear-gradient(135deg, #0A1931 0%, #00FFFF 100%)"
+    },
+    "typography": {
+      "heading_font": "Montserrat Bold (700)",
+      "body_font": "Roboto Medium (500)"
+    },
+    "layout_rule": "High Contrast, Geometric Structure. Key data points must be highlighted with Neon Cyan accents."
+  },
+  "script_reference": "Refer to the primary script file for detailed timing and voiceover mapping.",
+  "visual_assets_merged": [
+    {
+      "asset_id": "scene_1_hook",
+      "description": "Opening Hook - High energy, immediate visual impact. Focus on 'Wisdom meets AI'.",
+      "style": "Deep Blue background with sharp Neon Cyan geometric lines framing the central text.",
+      "color_usage": {
+        "background": "#0A1931",
+        "text": "#FFFFFF",
+        "accent": "#00FFFF"
+      },
+      "duration_estimate": "2-3 seconds"
+    },
+    {
+      "asset_id": "scene_2_data_flow",
+      "description": "Data Flow Visualization - Representing the AI process (Experience -> Efficiency).",
+      "style": "Flowchart/Diagram style. Deep Blue nodes connected by Neon Cyan lines.",
+      "color_usage": {
+        "nodes": "#0A1931",
+        "connections": "#00FFFF"
+      },
+      "duration_estimate": "4-5 seconds"
+    },
+    {
+      "asset_id": "scene_3_conclusion",
+      "description": "Conclusion/Call to Action - Emphasizing the result (The AI Advantage).",
+      "style": "Bold, centered text with a strong Neon Cyan glow effect. Minimalist design.",
+      "color_usage": {
+        "background": "#0A1931",
+        "text": "#FFFFFF",
+        "glow": "#00FFFF"
+      },
+      "duration_estimate": "2 seconds"
+    }
+  ],
+  "thumbnail_concept_final": {
+    "concept": "System Architect View (Focus on the structure)",
+    "color_scheme": "Deep Blue dominant with Neon Cyan highlights.",
+    "key_visual": "Abstract representation of a complex system diagram, emphasizing the intersection of deep experience (blue) and cutting-edge AI (cyan). Bold title overlay."
+  }
+}

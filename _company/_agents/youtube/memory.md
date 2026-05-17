@@ -129,3 +129,5 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-17] Designer가 제공한 최종 비주얼 가이드라인과 Writer의 스크립트를 기반으로, Shorts 영상 제작을 위한 구체적인 편집 작업 계획(타임라인 및 컷 조합)을 수립하고 Video & Content Editor에게 전달할 실행 목록을 작성하라. → 산출물 sessions/2026-05-17T02-13/youtube.md
 - [2026-05-17] Video & Content Editor에게 최종 스크립트, 시각 가이드라인, 편집 타임라인을 기반으로 Shorts 영상의 실제 컷 편집 및 조합 작업을 즉시 착수하도록 지시하고 필요한 리소스를 제공하라. → 산출물 sessions/2026-05-17T02-28/youtube.md
 - [2026-05-17] Designer와 Writer가 제공한 최종 실행 패키지(스크립트, 비주얼 가이드라인, 편집 타임라인)를 기반으로 Shorts 영상의 실제 컷 편집 및 조합 작업을 즉시 착수하도록 Video & Content Editor에게 지시하고 필요한 리소스를 제공하라. → 산출물 sessions/2026-05-17T02-43/youtube.md
+- [2026-05-17] Designer와 Writer가 제공한 최종 실행 패키지(스크립트, 비주얼 가이드라인, 편집 타임라인)를 기반으로 Video & Content Editor에게 필요한 모든 리소스를 재확인하고 즉시 최종 제작 착수를 지시하라. → 산출물 sessions/2026-05-17T02-58/youtube.md
+- [2026-05-17] Writer와 Designer가 제공한 최종 스크립트 및 시각 가이드라인을 기반으로 Shorts 영상의 실제 컷 편집 및 조합 작업을 즉시 착수하라. → 산출물 sessions/2026-05-17T03-43/youtube.md
