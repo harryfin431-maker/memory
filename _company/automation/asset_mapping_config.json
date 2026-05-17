@@ -1,0 +1,26 @@
+{
+  "project_name": "Shorts_Flow_System",
+  "design_system": {
+    "primary_color": "#0000FF",  // Deep Blue
+    "accent_color": "#00FFFF",  // Neon Cyan
+    "font_style": "Bold Sans-Serif",
+    "flow_principle_rules": [
+      {"rule_id": "R1", "description": "Hero shot must use primary_color background.", "check_type": "ColorMatch"},
+      {"rule_id": "R2", "description": "CTA text must use accent_color for high contrast.", "check_type": "ContrastCheck"}
+    ]
+  },
+  "shot_list_mapping_template": [
+    {
+      "shot_id": "S01",
+      "description": "Hook: LTV/CAC Visualization Intro",
+      "required_style": "Primary_Focus",
+      "target_asset_path_pattern": "assets/hook/*"
+    },
+    {
+      "shot_id": "S02",
+      "description": "Pain Point Example",
+      "required_style": "Contrast_High",
+      "target_asset_path_pattern": "assets/pain/*"
+    }
+  ]
+}
