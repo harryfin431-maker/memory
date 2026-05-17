@@ -143,3 +143,5 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-17] 작성된 스크립트와 디자인 초안을 바탕으로 Shorts 영상 제작에 필요한 최종 Shot List 및 편집 지침(Final Delivery Format 준수)을 정리하여 제공하라. → 산출물 sessions/2026-05-17T09-19/youtube.md
 - [2026-05-17] Writer가 제공한 스크립트와 Designer가 확정한 시각 가이드라인(Deep Blue/Neon Cyan, The Flow Principle)에 맞춰 Shorts 영상의 최종 편집 착수를 위한 모든 파일 형식 및 Shot List를 정리하여 제공하라. → 산출물 sessions/2026-05-17T09-43/youtube.md
 - [2026-05-17] 제작 준비가 완료된 Shorts 콘텐츠의 제목(Title), 설명(Description), 그리고 핵심 해시태그 세트를 기획하여 제시하라. → 산출물 sessions/2026-05-17T09-49/youtube.md
+- [2026-05-17] Writer와 Designer가 제공한 최종 스크립트, Shot List, 그리고 시각 가이드라인(Deep Blue/Neon Cyan)을 기반으로 Shorts 영상 제작에 필요한 최종 편집 지침과 제목, 설명, 핵심 해시태그 세트를 즉시 기획하고 준비하라. → 산출물 sessions/2026-05-17T11-04/youtube.md
+- [2026-05-17] 레오 에이전트에게 확정된 편집 지침과 메타데이터(제목, 설명, 해시태그)를 전달하여 Shorts 영상 제작팀에 최종 에셋 스펙을 즉시 전달하고 이미지 생성 및 편집 착수를 요청하도록 지시하라. → 산출물 sessions/2026-05-17T11-28/youtube.md
