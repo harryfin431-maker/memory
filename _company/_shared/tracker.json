@@ -526,6 +526,66 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-05-11T19-17/_report.md\n- 레오: 레오가 확정한 실행 지침과 Designer의 디자인 시스템 가이드라인을 100% 반영하여 Shorts 영상 편집 작업을 즉시 시작하고 제작을 완\n- Writer: 확정된 제목, 설명, 태그를 적용하여 YouTube 및 소셜 미디어에 콘텐츠를 업로드하고 $CVR \times AOV$ 극대화를 위한 홍보 전략(\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📺 레오 _(Head of YouTube)_\n> 📋 **지시**: 레오가 확정한 실행 지침과 Designer의 디자인 시스템 가이드라인을 100% 반영하여 Shorts 영상 편집 작업을 즉시 시작하고 제작을 완료하라.\n> 🔧 **도구 실행**: `my_videos_check.py (prefetch)`\n",
       "completedAt": "2026-05-11T19:27:57.955Z"
+    },
+    {
+      "id": "20260517093949-i572",
+      "title": "모든 핵심 시각 요소가 Deep Blue/Neon Cyan 팔레트를 준수하는가?",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-17T09:39:49.599Z",
+      "status": "pending",
+      "sessionDir": "2026-05-17T09-28",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260517093950-tkj0",
+      "title": "영상 내의 '흐름'이 논리적 인과관계를 명확히 따르고 있는가? (The Flow Principle)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-17T09:39:50.097Z",
+      "status": "pending",
+      "sessionDir": "2026-05-17T09-28",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260517093951-imfk",
+      "title": "텍스트 오버레이가 배경에 의해 가려지지 않고, 고해상도에서 완벽하게 읽히는가?",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-17T09:39:51.755Z",
+      "status": "pending",
+      "sessionDir": "2026-05-17T09-28",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260517093952-j7ut",
+      "title": "최종 배포 형식의 기술 사양(해상도/비율)을 준수했는가?",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-17T09:39:52.726Z",
+      "status": "pending",
+      "sessionDir": "2026-05-17T09-28",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
     }
   ]
 }
