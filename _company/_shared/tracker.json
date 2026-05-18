@@ -866,6 +866,57 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-05-17T18-34/_report.md\n- 영숙: Writer와 Designer의 최종 산출물(스크립트 초안 및 비주얼 리소스 패키지)을 취합하여 Video & Content Editor에게 전\n- 레오: 최종 콘텐츠 패키지(제목, 후크 전략)와 기술 실행 결과(Asset Mapping/Consistency Check)를 통합하여 Shorts 영상\n- 현빈: LTV/CAC 목표 달성을 위한 수익화 Funnel 구조와 KPI 측정 모델이 영상 제작에 명확히 반영되었는지 최종 점검하고, 이 정보를 제작팀\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📱 영숙 _(비서 · Personal Assistant)_\n> 📋 **지시**: Writer와 Designer의 최종 산출물(스크립트 초안 및 비주얼 리소스 패키지)을 취합하여 Video & Content Editor에게 전달할 공식 요청 보고서를 작성하고 즉시 발송하도록 준비하라.\n> 🔧 **도구 실",
       "completedAt": "2026-05-17T18:50:36.066Z"
+    },
+    {
+      "id": "20260517230349-6wuq",
+      "title": "$C_{vis}$ 및 $C_{hook}$ 계산 로직이 Style Guide의 모든 규칙을 반영하는가? (✅ 확인)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-17T23:03:49.410Z",
+      "status": "done",
+      "sessionDir": "2026-05-17T22-58",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-17T22-58/_report.md\n- 코다리: Consistency Checker 및 Style Guide 준수 보고서를 기반으로, 영상 제작 과정에서 시스템 중심 후크와 시각적 일관성을 실\n- 현빈: 개발팀이 구축할 Consistency Checker의 측정 지표가 영상 콘텐츠의 비즈니스 목표(LTV/CAC)와 명확하게 연결되도록 지표 수식 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: Consistency Checker 및 Style Guide 준수 보고서를 기반으로, 영상 제작 과정에서 시스템 중심 후크와 시각적 일관성을 실시간으로 모니터링하고 측정하는 자동화 파이프라인의 최종 검증 로직을 확정하고 배포 준비를 완료하세요",
+      "completedAt": "2026-05-17T23:13:10.622Z"
+    },
+    {
+      "id": "20260517230349-2u4p",
+      "title": "$C_{total}$에 LTV/CAC 연동 공식($E$)이 정확히 반영되었는가? (✅ 확인)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-17T23:03:49.508Z",
+      "status": "done",
+      "sessionDir": "2026-05-17T22-58",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-17T22-58/_report.md\n- 코다리: Consistency Checker 및 Style Guide 준수 보고서를 기반으로, 영상 제작 과정에서 시스템 중심 후크와 시각적 일관성을 실\n- 현빈: 개발팀이 구축할 Consistency Checker의 측정 지표가 영상 콘텐츠의 비즈니스 목표(LTV/CAC)와 명확하게 연결되도록 지표 수식 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: Consistency Checker 및 Style Guide 준수 보고서를 기반으로, 영상 제작 과정에서 시스템 중심 후크와 시각적 일관성을 실시간으로 모니터링하고 측정하는 자동화 파이프라인의 최종 검증 로직을 확정하고 배포 준비를 완료하세요",
+      "completedAt": "2026-05-17T23:13:10.640Z"
+    },
+    {
+      "id": "20260517230349-n3km",
+      "title": "자동화 파이프라인이 임계값 기반으로 즉각적인 경고를 생성하도록 설정했는가? (✅ 확인)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-17T23:03:49.546Z",
+      "status": "done",
+      "sessionDir": "2026-05-17T22-58",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-17T22-58/_report.md\n- 코다리: Consistency Checker 및 Style Guide 준수 보고서를 기반으로, 영상 제작 과정에서 시스템 중심 후크와 시각적 일관성을 실\n- 현빈: 개발팀이 구축할 Consistency Checker의 측정 지표가 영상 콘텐츠의 비즈니스 목표(LTV/CAC)와 명확하게 연결되도록 지표 수식 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: Consistency Checker 및 Style Guide 준수 보고서를 기반으로, 영상 제작 과정에서 시스템 중심 후크와 시각적 일관성을 실시간으로 모니터링하고 측정하는 자동화 파이프라인의 최종 검증 로직을 확정하고 배포 준비를 완료하세요",
+      "completedAt": "2026-05-17T23:13:10.659Z"
     }
   ]
 }
