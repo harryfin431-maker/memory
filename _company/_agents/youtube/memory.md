@@ -184,3 +184,5 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-17] 최신 영상 제작 진행 상황(스크립트, 기획 단계 등)을 제공하여 모니터링 보고서에 포함할 데이터를 준비하라. → 산출물 sessions/2026-05-17T21-58/youtube.md
 - [2026-05-17] 최종 실행 지침 패키지(`youtube.md`)를 기반으로, '시스템 중심 후크'가 적용된 첫 번째 Shorts 영상의 구체적인 스크립트 초안과 영상 기획안을 작성하여 제작팀에 전달할 준비를 하라. → 산출물 sessions/2026-05-17T22-34/youtube.md
 - [2026-05-17] Style Guide 및 Consistency Metric($C_{vis}, C_{hook}$)을 최우선 원칙으로 하여, '70년 인생 기록'을 주제로 하는 첫 번째 Shorts 영상의 시스템 중심 후크(Hook) 전략과 전체 영상 기획안 초안을 작성하세요. 이 기획안에는 목표 KPI 연동 방안이 포함되어야 합니다. → 산출물 sessions/2026-05-17T23-49/youtube.md
+- [2026-05-18] Style Guide v1.0 및 Consistency Metric($C_{vis}, C_{hook}$)을 완벽히 준수하는 Shorts 영상의 최종 기획안(스크립트 초안 포함)을 작성하고, 시스템 중심 후크 전략이 명확히 반영되었는지 검토 요청 → 산출물 sessions/2026-05-18T00-09/youtube.md
+- [2026-05-18] 이전 기획안(sessions/2026-05-17T23-49/youtube.md)을 기반으로, Style Guide v1.0 및 Consistency Metric($C_{vis}$)을 완벽히 준수하는 다음 Shorts 영상의 핵심 비주얼 컨셉과 썸네일 디자인 브리프(Hook 강조)를 최종 확정하여 Designer에게 전달할 준비를 하세요. → 산출물 sessions/2026-05-18T00-18/youtube.md
