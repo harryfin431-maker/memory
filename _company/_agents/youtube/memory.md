@@ -186,3 +186,4 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-17] Style Guide 및 Consistency Metric($C_{vis}, C_{hook}$)을 최우선 원칙으로 하여, '70년 인생 기록'을 주제로 하는 첫 번째 Shorts 영상의 시스템 중심 후크(Hook) 전략과 전체 영상 기획안 초안을 작성하세요. 이 기획안에는 목표 KPI 연동 방안이 포함되어야 합니다. → 산출물 sessions/2026-05-17T23-49/youtube.md
 - [2026-05-18] Style Guide v1.0 및 Consistency Metric($C_{vis}, C_{hook}$)을 완벽히 준수하는 Shorts 영상의 최종 기획안(스크립트 초안 포함)을 작성하고, 시스템 중심 후크 전략이 명확히 반영되었는지 검토 요청 → 산출물 sessions/2026-05-18T00-09/youtube.md
 - [2026-05-18] 이전 기획안(sessions/2026-05-17T23-49/youtube.md)을 기반으로, Style Guide v1.0 및 Consistency Metric($C_{vis}$)을 완벽히 준수하는 다음 Shorts 영상의 핵심 비주얼 컨셉과 썸네일 디자인 브리프(Hook 강조)를 최종 확정하여 Designer에게 전달할 준비를 하세요. → 산출물 sessions/2026-05-18T00-18/youtube.md
+- [2026-05-18] Designer와 Developer가 제공한 비주얼 가이드라인을 기반으로, 시스템 중심 후크 전략이 스크립트와 시각적으로 완벽히 일치하는지 최종 검토하고 보완하라. → 산출물 sessions/2026-05-18T01-34/youtube.md
